@@ -1,0 +1,15 @@
+lab2
+Create two thread:
+  1. with extending thread class print odd number in span of 2 seconds
+  2. with implementing runnable interface to print even number in span of 3 seconds
+
+Create a Custom Checked Exception: MyException. Use the exception in your program.
+Create a Custom Runtime Exception: InvalidmarkException. Use the exception in your program.
+Write a program to achieve multiple inheritance in java.
+
+lab3
+WAP to create a copy the content  of myfile.txt to copiedfile.txt.
+WAP to create a class User with fields: id, name, email. take input from user to initialize 5 user object and write to file. Write a program to display the data as well. Make sure that previously stored data are not lost.
+WAP to take a line as input and write to myfile.txt. Also display the content of the file to console after writing.
+
+lab 4
