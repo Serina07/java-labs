@@ -13,3 +13,17 @@ WAP to create a class User with fields: id, name, email. take input from user to
 WAP to take a line as input and write to myfile.txt. Also display the content of the file to console after writing.
 
 lab 4
+Write a program to implement dynamic method dispatch.
+Write a program to show thread synchronization.
+Write a program to create a package in java.
+
+lab 5
+Write a swing program to create a form that has fields:
+
+Name
+Phone Number
+Address
+Gender
+Country
+Hobbies
+Name and Phone number is required field and an error must be shown if the filed values are missing.
