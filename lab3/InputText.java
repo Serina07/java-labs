@@ -1,5 +1,6 @@
 package lab3;
 
+//WAP to take a line as input and write to myfile.txt. Also display the content of the file to console after writing.
 
 import java.util.Scanner;
 import java.io.*;
