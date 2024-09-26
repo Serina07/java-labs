@@ -1,6 +1,6 @@
 package lab4;
 
-
+//Write a program to implement dynamic method dispatch.
 
 abstract class Animal{
   abstract void display();
@@ -15,14 +15,14 @@ class Dog extends Animal
 
   void display()
   {
-      System.out.println("Woof woof 🐕");
+      System.out.println("Woof woof");
   }
 }
 class Cat extends Animal
 {
   void display()
   {
-      System.out.println(("Meow meow 🐈‍⬛"));
+      System.out.println(("Meow meow"));
   }
 }
 public class DMethod {
